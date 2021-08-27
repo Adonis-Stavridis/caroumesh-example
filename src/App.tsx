@@ -4,7 +4,7 @@ import "./App.css";
 import { Caroumesh } from "caroumesh";
 
 function App() {
-	return <Caroumesh />;
+	return <Caroumesh src="assets/model.glb" />;
 }
 
 export default App;
