@@ -1,11 +1,9 @@
-html,
 body {
-	width: 100%;
-	height: 100%;
 	margin: 0;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+  color: snow;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
 		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
 		sans-serif;
@@ -14,7 +12,10 @@ body {
 }
 
 div#root {
-	width: 100%;
-	height: 100%;
+	width: 100vw;
+	min-height: 100vh;
+  max-height: 100vh;
 	margin: 0px;
+  background-color: #333333;
+  overflow: auto;
 }

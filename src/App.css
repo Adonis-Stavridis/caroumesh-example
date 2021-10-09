@@ -1,38 +1,59 @@
 .App {
-  text-align: center;
+	text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Container {
+	padding: 1em;
+	min-height: 100%;
+	max-height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	overflow: auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Info {
+	padding-top: 0.25em;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Link {
+	cursor: pointer;
+	padding: 0.75em;
+	margin: 0.1em;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 0.25em;
 }
 
-.App-link {
-  color: #61dafb;
+.Link:link,
+.Link:visited {
+	background-color: mediumseagreen;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Link:hover,
+.Link:active {
+	background-color: rgb(46, 134, 86);
+}
+
+.NPM:link,
+.NPM:visited {
+	background-color: tomato;
+}
+
+.NPM:hover,
+.NPM:active {
+	background-color: rgb(202, 78, 56);
+}
+
+.Contact:link,
+.Contact:visited {
+	color: dodgerblue;
+}
+
+.Contact:hover,
+.Contact:active {
+	color: mediumseagreen;
 }
