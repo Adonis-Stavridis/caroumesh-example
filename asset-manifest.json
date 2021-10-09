@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/caroumesh-example/static/css/main.00412a17.chunk.css",
+    "main.js": "/caroumesh-example/static/js/main.79515e6d.chunk.js",
+    "main.js.map": "/caroumesh-example/static/js/main.79515e6d.chunk.js.map",
+    "runtime-main.js": "/caroumesh-example/static/js/runtime-main.d379409e.js",
+    "runtime-main.js.map": "/caroumesh-example/static/js/runtime-main.d379409e.js.map",
+    "static/js/2.c6017cb1.chunk.js": "/caroumesh-example/static/js/2.c6017cb1.chunk.js",
+    "static/js/2.c6017cb1.chunk.js.map": "/caroumesh-example/static/js/2.c6017cb1.chunk.js.map",
+    "index.html": "/caroumesh-example/index.html",
+    "static/css/main.00412a17.chunk.css.map": "/caroumesh-example/static/css/main.00412a17.chunk.css.map",
+    "static/js/2.c6017cb1.chunk.js.LICENSE.txt": "/caroumesh-example/static/js/2.c6017cb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d379409e.js",
+    "static/js/2.c6017cb1.chunk.js",
+    "static/css/main.00412a17.chunk.css",
+    "static/js/main.79515e6d.chunk.js"
+  ]
+}
