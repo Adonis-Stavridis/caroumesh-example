@@ -3,7 +3,9 @@
 This is a basic example / demo for the
 [Caroumesh](https://www.npmjs.com/package/caroumesh) npm package.
 
-Live example: <https://adonis-stavridis.github.io/caroumesh-example/>
+Live example: <https://adonis-stavridis.github.io/caroumesh-example/>.
+
+Live demo: <https://codesandbox.io/s/caroumesh-example-kp2tr>.
 
 ## Code
 
