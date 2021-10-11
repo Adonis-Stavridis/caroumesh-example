@@ -14,6 +14,7 @@ Live demo: <https://codesandbox.io/s/caroumesh-example-kp2tr>.
 	<h1>Caroumesh - Example</h1>
 	<Caroumesh
 		shadows
+    controls
 		theme={"dodgerblue"}
 		width={"75vw"}
 		height={"75vh"}

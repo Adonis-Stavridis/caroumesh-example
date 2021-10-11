@@ -9,6 +9,7 @@ function App() {
 
 			<Caroumesh
 				shadows
+				controls
 				theme={"dodgerblue"}
 				width={"75vw"}
 				height={"75vh"}
